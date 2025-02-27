@@ -39,7 +39,7 @@ def best_split(X, y):
             left_mask = X[:, feature] <= threshold
             right_mask = X[:, feature] > threshold
             left_y, right_y = y[left_mask], y[right_mask]
-            # when threshold = threshold[0] and threshold[len(thresholds)-1]
+            # when threshold = thresholds[0] and thresholds[len(thresholds)-1]
             if len(left_y) == 0 or len(right_y) == 0:
                 continue
 
@@ -106,7 +106,3 @@ tree.fit(X_train, y_train)
 y_pred = tree.predict(X_test)
 
 print("Accuracy: ", accuracy_score(y_test, y_pred))
-
-
-if __name__ == "__main__":
-    pass
