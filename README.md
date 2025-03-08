@@ -5,20 +5,21 @@ Supervised learning involves training a model on labeled data to make prediction
 - [x] Linear Regression
 - [ ] Logistic Regression
 - [x] k-Nearest Neighbors (k-NN)
-- [ ] Decision Trees
+- [x] Decision Trees
 
 ### Intermediate
 - [x] Support Vector Machines (SVM)
 - [ ] Naive Bayes
-- [ ] Random Forest
+- [x] Random Forest
 - [ ] Gradient Boosting Machines (GBM)
+- [x] AdaBoost
 - [ ] XGBoost
 - [ ] LightGBM
 - [ ] CatBoost
 
 ### Advanced
 - [ ] Regularization Techniques (L1/L2 Regularization)
-- [ ] Ensemble Methods (Bagging, Boosting, Stacking)
+- [x] Ensemble Methods (Bagging, Boosting, Stacking)
 - [ ] Bayesian Linear Regression
 - [ ] Gaussian Processes
 - [ ] Kernel Methods (Kernel SVM, Kernel Regression)
