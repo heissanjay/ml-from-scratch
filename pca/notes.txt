@@ -1,0 +1,8 @@
+PCA Algorithm
+
+1. Standardize the data (X)
+2. Compute co-variance matrix.
+3. Perform Eigen Decomposistion
+4. Select Top K principal components
+5. Transform the data
+
