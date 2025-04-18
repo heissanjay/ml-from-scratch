@@ -3,22 +3,22 @@ Supervised learning involves training a model on labeled data to make prediction
 
 ### Easy
 - [x] Linear Regression
-- [ ] Logistic Regression
+- [x] Logistic Regression
 - [x] k-Nearest Neighbors (k-NN)
 - [x] Decision Trees
 
 ### Intermediate
 - [x] Support Vector Machines (SVM)
-- [ ] Naive Bayes
+- [x] Naive Bayes
 - [x] Random Forest
-- [ ] Gradient Boosting Machines (GBM)
+- [x] Gradient Boosting Machines (GBM)
 - [x] AdaBoost
-- [ ] XGBoost
-- [ ] LightGBM
-- [ ] CatBoost
+- [x] XGBoost
+- [x] LightGBM
+- [x] CatBoost
 
 ### Advanced
-- [ ] Regularization Techniques (L1/L2 Regularization)
+- [x] Regularization Techniques (L1/L2 Regularization)
 - [x] Ensemble Methods (Bagging, Boosting, Stacking)
 - [ ] Bayesian Linear Regression
 - [ ] Gaussian Processes
@@ -30,13 +30,13 @@ Supervised learning involves training a model on labeled data to make prediction
 Unsupervised learning involves finding patterns in unlabeled data.
 
 ### Easy
-- [ ] K-Means Clustering
-- [ ] Hierarchical Clustering
-- [ ] Principal Component Analysis (PCA)
+- [x] K-Means Clustering
+- [x] Hierarchical Clustering
+- [x] Principal Component Analysis (PCA)
 
 ### Intermediate
 - [ ] t-Distributed Stochastic Neighbor Embedding (t-SNE)
-- [ ] DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
+- [x] DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 - [ ] Gaussian Mixture Models (GMM)
 - [ ] Independent Component Analysis (ICA)
 
@@ -53,22 +53,22 @@ Unsupervised learning involves finding patterns in unlabeled data.
 Neural networks are a subset of machine learning models inspired by the human brain.
 
 ### Easy
-- [ ] Perceptron
-- [ ] Multilayer Perceptron (MLP)
-- [ ] Feedforward Neural Networks
+- [x] Perceptron
+- [x] Multilayer Perceptron (MLP)
+- [x] Feedforward Neural Networks
 
 ### Intermediate
-- [ ] Convolutional Neural Networks (CNN)
-- [ ] Recurrent Neural Networks (RNN)
-- [ ] Long Short-Term Memory Networks (LSTM)
-- [ ] Gated Recurrent Units (GRU)
-- [ ] Transfer Learning (e.g., using pre-trained models like ResNet, VGG)
+- [x] Convolutional Neural Networks (CNN)
+- [x] Recurrent Neural Networks (RNN)
+- [x] Long Short-Term Memory Networks (LSTM)
+- [x] Gated Recurrent Units (GRU)
+- [] Transfer Learning (e.g., using pre-trained models like ResNet, VGG)
 
 ### Advanced
 - [ ] Generative Adversarial Networks (GAN)
 - [ ] Variational Autoencoders (VAE)
-- [ ] Transformer Models (e.g., BERT, GPT)
-- [ ] Attention Mechanisms
+- [x] Transformer Models (e.g., BERT, GPT)
+- [x] Attention Mechanisms
 - [ ] Capsule Networks
 - [ ] Neural Architecture Search (NAS)
 - [ ] Reinforcement Learning with Neural Networks (e.g., Deep Q-Learning)
@@ -79,20 +79,20 @@ Neural networks are a subset of machine learning models inspired by the human br
 These are foundational concepts and techniques used across all areas of machine learning.
 
 ### Easy
-- [ ] Gradient Descent (Batch, Mini-Batch, Stochastic)
-- [ ] Loss Functions (Mean Squared Error, Cross-Entropy)
-- [ ] Overfitting and Underfitting
-- [ ] Bias-Variance Tradeoff
-- [ ] Feature Scaling and Normalization (Min-Max, Z-Score)
-- [ ] Train-Test Split
-- [ ] Cross-Validation (k-Fold)
+- [x] Gradient Descent (Batch, Mini-Batch, Stochastic)
+- [x] Loss Functions (Mean Squared Error, Cross-Entropy)
+- [x] Overfitting and Underfitting
+- [x] Bias-Variance Tradeoff
+- [x] Feature Scaling and Normalization (Min-Max, Z-Score)
+- [x] Train-Test Split
+- [x] Cross-Validation (k-Fold)
 
 ### Intermediate
 - [ ] Hyperparameter Tuning (Grid Search, Random Search)
 - [ ] Regularization Techniques (L1/L2, Dropout)
-- [ ] Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, ROC-AUC)
-- [ ] Dimensionality Reduction (PCA, t-SNE, UMAP)
-- [ ] Feature Engineering
+- [x] Evaluation Metrics (Accuracy, Precision, Recall, F1-Score, ROC-AUC)
+- [x] Dimensionality Reduction (PCA, t-SNE, UMAP)
+- [x] Feature Engineering
 - [ ] Data Augmentation
 
 ### Advanced
