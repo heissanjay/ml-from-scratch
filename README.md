@@ -66,7 +66,7 @@ Neural networks are a subset of machine learning models inspired by the human br
 
 ### Advanced
 - [ ] Generative Adversarial Networks (GAN)
-- [ ] Variational Autoencoders (VAE)
+- [x] Variational Autoencoders (VAE)
 - [x] Transformer Models (e.g., BERT, GPT)
 - [x] Attention Mechanisms
 - [ ] Capsule Networks
@@ -96,7 +96,7 @@ These are foundational concepts and techniques used across all areas of machine 
 - [ ] Data Augmentation
 
 ### Advanced
-- [ ] Optimization Algorithms (Adam, RMSprop, Adagrad)
+- [x] Optimization Algorithms (Adam, RMSprop, Adagrad)
 - [ ] Bayesian Optimization
 - [ ] Advanced Evaluation Metrics (Log Loss, Mean Absolute Error, R²)
 - [ ] Time Series Analysis (ARIMA, SARIMA)
